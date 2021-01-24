@@ -45,7 +45,7 @@ describe '/lib/display_board.rb' do
 end
 
 def display_board
-  
+
 end
 
 def display_board(board)
