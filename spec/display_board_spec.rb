@@ -48,6 +48,8 @@ def display_board
 
 end
 
+puts board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+
 def display_board(board)
 
   puts " # | # | # "
